@@ -15,6 +15,7 @@ requirements:
     - automake
     - autoconf
     - m4
+    - perl
     - gcc  # [linux]
     - llvm
   run:
