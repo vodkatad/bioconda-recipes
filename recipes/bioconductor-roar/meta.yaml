@@ -17,9 +17,9 @@ requirements:
     - 'bioconductor-genomicalignments >=0.99.4'
     - bioconductor-genomicranges
     - bioconductor-iranges
-    - bioconductor-rtracklayer
+    - 'bioconductor-rtracklayer >=1.34.1'
     - bioconductor-s4vectors
-    - bioconductor-summarizedexperiment
+    - 'bioconductor-summarizedexperiment >=1.4.0'
     - r
   run:
     - bioconductor-biocgenerics
@@ -27,9 +27,9 @@ requirements:
     - 'bioconductor-genomicalignments >=0.99.4'
     - bioconductor-genomicranges
     - bioconductor-iranges
-    - bioconductor-rtracklayer
+    - 'bioconductor-rtracklayer >=1.34.1'
     - bioconductor-s4vectors
-    - bioconductor-summarizedexperiment
+    - 'bioconductor-summarizedexperiment >=1.4.0'
     - r
 test:
   commands:
